@@ -1,0 +1,6 @@
+.Synonyms li {
+  display: inline-block;
+  padding-right: 10px;
+  font-size: 13px;
+  line-height: 1;
+}
