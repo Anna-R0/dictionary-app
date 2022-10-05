@@ -13,7 +13,16 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Anna Ro</small>
+          <small>
+            {" "}
+            This project was coded by Anna Ro and is {""}
+            <a
+              href="https://github.com/Anna-R0/weather-app-react"
+              target="blank"
+            >
+              open-sourced on GitHub
+            </a>
+          </small>
         </footer>
       </div>
     </div>
